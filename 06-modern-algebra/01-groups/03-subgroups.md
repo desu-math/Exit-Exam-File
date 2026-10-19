@@ -55,3 +55,40 @@ Inverse
 
 One useful shortcut: Since H inherits associativity from G, you usually don't need to prove associativity separately. If G is already a group and H ⊆ G, associativity automatically holds in H. You still need to establish the other requirements.
 
+---
+
+Let G be a group and H ⊆ G. Then H is a subgroup of G if and only if
+
+x * y⁻¹ ∈ H for every x, y ∈ H.
+
+This means you only need to check one condition:
+
+For every pair of elements x and y in H, the element x * y⁻¹ must also belong to H.
+
+Here, y⁻¹ means the inverse of y under the group's operation.
+
+Example: Consider H = 2Z, the even integers, inside G = (Z, +).
+
+For addition, the group operation is +, so the expression x * y⁻¹ becomes:
+
+x − y
+
+Take any two even integers, for example x = 8 and y = 4:
+
+x − y = 8 − 4 = 4, which is even.
+
+More generally, the difference between any two even integers is even. Therefore, x − y ∈ H for every x, y ∈ H.
+
+Hence, H is a subgroup of G.
+
+Important note
+
+The second test assumes H is nonempty. Otherwise, the condition could hold vacuously for the empty set, even though the empty set is not a subgroup.
+
+Remember these two tests
+Test	Conditions to check
+First subgroup test	Closure, identity, and inverses
+Second subgroup test	x * y⁻¹ ∈ H for all x, y ∈ H, with H nonempty
+
+Exam tip: The second test is often the fastest option, but use whichever test makes the proof easiest.
+
