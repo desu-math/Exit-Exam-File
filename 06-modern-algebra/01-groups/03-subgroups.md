@@ -43,3 +43,15 @@ Therefore, (2Z, +) is a subgroup of (Z, +).
 Key idea
 
 A subset is not automatically a subgroup just because it is contained in a group. It must also form a group under the same operation.
+
+You need to check two main conditions:
+
+Subset condition: H ⊆ G.
+Group condition: H must itself be a group under the same operation, which means checking the four group axioms:
+Closure
+Associativity
+Identity
+Inverse
+
+One useful shortcut: Since H inherits associativity from G, you usually don't need to prove associativity separately. If G is already a group and H ⊆ G, associativity automatically holds in H. You still need to establish the other requirements.
+
