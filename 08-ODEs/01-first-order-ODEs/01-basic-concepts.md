@@ -1,4 +1,18 @@
-# 1. Basic Concepts and Definitions
+💭🔐Basic Concepts and Definitions - ODEs  
+> Course: Ordinary differential equations
+> Topic: Basic Concepts and Definitions
+> Purpose: To understand general concepts and definitions of ODEs
+
+---
+
+## 📋 Table of contents  
+
+1. [[ What is differential equations ]] ( 1. differential equation )
+2. [[ what is Ordinary Differential Equations (ODEs) ]] ( 2. ordinary differential equation (ODE) )
+3. [[ what is Partial Differential Equations (PDEs) ]] ( 3. partial differential equation (PDE) )
+
+
+---
 
 ## 1.1 Introduction to Differential Equations
 
