@@ -1,20 +1,24 @@
 💭🔐Basic Concepts and Definitions - ODEs  
-> Course: Ordinary differential equations
-> Topic: Basic Concepts and Definitions
-> Purpose: To understand general concepts and definitions of ODEs
+> Course: Ordinary differential equations  
+> Topic: Basic Concepts and Definitions  
+> Purpose: To understand general concepts and definitions of ODEs  
 
 ---
 
 ## 📋 Table of contents  
 
-1. [[ What is differential equations ]] ( 1. differential equation )
-2. [[ what is Ordinary Differential Equations (ODEs) ]] ( 2. ordinary differential equation (ODE) )
-3. [[ what is Partial Differential Equations (PDEs) ]] ( 3. partial differential equation (PDE) )
+1. [Introduction to Differential Equations](#1.Introduction-to-Differential-Equations)
+   - [What is differential equations?](differential-equation)
+   - [what is Ordinary Differential Equations (ODEs)?](ordinary-differential-equation-(ODE))
+   - [what is Partial Differential Equations (PDEs)?](partial-differential-equation-(PDE))
+2. [Order of a Differential Equation](#2.Order-of-a-Differential-Equation)
+   - [what is order of ODEs](order)
+   - 
 
 
 ---
 
-## 1.1 Introduction to Differential Equations
+## 1. Introduction to Differential Equations
 
 A **differential equation** is an equation that involves an unknown function and one or more of its derivatives.
 
@@ -55,7 +59,7 @@ Here, u depends on both position x and time t, written as `u = u(x, t)`.
 
 ---
 
-## 1.2 Order of a Differential Equation
+## 2. Order of a Differential Equation
 
 The **order** of a differential equation is the order of the highest derivative appearing in the equation.
 
