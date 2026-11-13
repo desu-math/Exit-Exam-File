@@ -369,7 +369,7 @@ Determine what situation we want to investigate.
 
 Example: Predicting the future value of a bank deposit.
 
-### Step 2: Understand the Problem and Collect Information
+### Step 2: Understand the Problem, Collect Information and Identify the variables
 
 Identify relevant information and data.
 
@@ -440,7 +440,7 @@ If the model is not sufficiently accurate, modify its assumptions, data, or math
 Real-World Problem
         |
         v
-Understand and Collect Information
+Understand, Collect Information and identify the variables
         |
         v
 Make Assumptions
